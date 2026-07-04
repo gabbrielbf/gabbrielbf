@@ -18,6 +18,7 @@
     <img alt="github most used languages" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbrielbf&theme=chartreuse-dark&card_width=336&langs_count=6&layout=compact" />
   </a>
 </p>
+
 ---
 
 ## 🛠️ SKILLS
@@ -40,12 +41,12 @@
 
 <p align="left">
   <a href="https://instagram.com/gabbrielbf" target="_blank">
-    <img width="40" height="40" src="https://user-images.githubusercontent.com/30182410/115403063-cb19cb00-a19a-11eb-811d-ef1f92eef6d6.png" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/92982603769?text=Vim%20do%20Github" target="_blank">
-    <img width="40" height="40" src="https://user-images.githubusercontent.com/30182410/115403064-cb19cb00-a19a-11eb-98da-b9245fc2ca7e.png" alt="WhatsApp" />
+  <a href="https://wa.me/5592982603769?text=Vim%20do%20Github" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:gabrielbastos.gbf@outlook.com?subject=Vim%20do%20Github" target="_blank">
-    <img width="40" height="40" src="https://user-images.githubusercontent.com/30182410/115403062-ca813480-a19a-11eb-9c16-90c746777c1d.png" alt="Email" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
