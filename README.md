@@ -12,9 +12,8 @@
 
 <p align="left">
   <img alt="Gabriel's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabbrielbf&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <img alt="Gabriel's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbrielbf&theme=chartreuse-dark" />
+  <img alt="Gabriel's GitHub Streak" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbrielbf&theme=chartreuse-dark" />
 </p>
-
 ---
 
 ## 🛠️ SKILLS
