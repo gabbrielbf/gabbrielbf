@@ -12,10 +12,10 @@
 
 <p align="left">
   <a href="https://github.com/gabbrielbf">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=gabbrielbf&theme=chartreuse-dark&show_icons=true&count_private=true" />
+    <img alt="github stats" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gabbrielbf&theme=chartreuse-dark&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/gabbrielbf">
-    <img alt="github most used languages" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbrielbf&theme=chartreuse-dark&card_width=336&langs_count=6&layout=compact" />
+    <img alt="github most used languages" height="195" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gabbrielbf&theme=chartreuse-dark&card_width=336&langs_count=6&layout=compact" />
   </a>
 </p>
 
