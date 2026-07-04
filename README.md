@@ -11,12 +11,8 @@
 ## 📊 My History
 
 <p align="left">
-  <a href="https://github.com/gabbrielbf">
-    <img alt="github stats" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gabbrielbf&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  </a>
-  <a href="https://github.com/gabbrielbf">
-    <img alt="github most used languages" height="195" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gabbrielbf&theme=chartreuse-dark&card_width=336&langs_count=6&layout=compact" />
-  </a>
+  <img alt="Gabriel's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabbrielbf&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <img alt="Gabriel's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbrielbf&theme=chartreuse-dark" />
 </p>
 
 ---
