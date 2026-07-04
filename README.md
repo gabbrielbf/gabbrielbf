@@ -18,7 +18,6 @@
     <img alt="github most used languages" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbrielbf&theme=chartreuse-dark&card_width=336&langs_count=6&layout=compact" />
   </a>
 </p>
-
 ---
 
 ## 🛠️ SKILLS
