@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel Bastos <img src="https://komarev.com/ghpvc/?username=gabbrielbf&color=green" alt="gabbrielbf" /> 
+# Hello, World! I'm Gabriel Bastos <img src="https://komarev.com/ghpvc/?username=gabbrielbf&color=green" alt="gabbrielbf" /> 
 
 😎 From RN currently in Manaus and from Brazil to the World 🌎
 
