@@ -50,4 +50,7 @@
   <a href="mailto:gabrielbastos.gbf@outlook.com?subject=Vim%20do%20Github" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/gabriel-bastos-gbf/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Linkedin" />
+  </a>
 </p>
