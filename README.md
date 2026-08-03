@@ -44,13 +44,13 @@
   <a href="https://instagram.com/gabbrielbf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://www.linkedin.com/in/gabriel-bastos-gbf/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Linkedin" />
+  </a>
   <a href="https://wa.me/5592982603769?text=Vim%20do%20Github" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:gabrielbastos.gbf@outlook.com?subject=Vim%20do%20Github" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-bastos-gbf/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Linkedin" />
   </a>
 </p>
