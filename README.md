@@ -1,26 +1,16 @@
-# Hello, World! I'm Gabriel Bastos <img src="https://komarev.com/ghpvc/?username=gabbrielbf&color=green" alt="gabbrielbf" /> 
+### Hello, World! I'm Gabriel Bastos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > 
+<img src="https://komarev.com/ghpvc/?username=gabbrielbf&color=green" alt="gabbrielbf" />
 
-😎 From RN currently in Manaus and from Brazil to the World 🌎
+I'm a Systems Analysis and Development student. **Specializing in web API development.**. <br>
+Seeking a remote or hybrid internship to expand my knowledge and improve my programming 
+proficiency; I have advanced English skills.
 
-👨‍💻 Aspiring a software developer 🖖
+#### Find me elsewhere
 
-🔍 Curious and lover of novelties 💡
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabbrielbf/)](https://www.linkedin.com/in/gabriel-bastos-gbf/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielbastos.gbf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:rodrigorgtic@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabbrielbf/)](https://www.instagram.com/gabbrielbf/)
 
----
-
-## 📊 My History
-
-<table>
-  <tr>
-    <td>
-      <img alt="Gabriel's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabbrielbf&theme=chartreuse-dark&show_icons=true&count_private=true" />
-    </td>
-    <td>
-      <img alt="Gabriel's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbrielbf&theme=chartreuse-dark" />
-    </td>
-  </tr>
-</table>
----
 
 ## 🛠️ SKILLS
 
@@ -37,20 +27,3 @@
 </p>
 
 ---
-
-## 📬 Contact Me
-
-<p align="left">
-  <a href="https://instagram.com/gabbrielbf" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-bastos-gbf/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="https://wa.me/5592982603769?text=Vim%20do%20Github" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:gabrielbastos.gbf@outlook.com?subject=Vim%20do%20Github" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-</p>
