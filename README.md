@@ -8,7 +8,7 @@ proficiency; I have advanced English skills.
 #### Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabbrielbf/)](https://www.linkedin.com/in/gabriel-bastos-gbf/) 
-[![Gmail Badge](https://img.shields.io/badge/-gabrielbastos.gbf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:rodrigorgtic@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielbastos.gbf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbastos.gbf@gmail.com)](mailto:gabrielbastos.gbf@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabbrielbf/)](https://www.instagram.com/gabbrielbf/)
 
 
